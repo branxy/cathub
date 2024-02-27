@@ -5,7 +5,7 @@
 1. Clone the repository (or download ZIP):
 
 ```
-git clone https://github.com/branxy/cathub.git
+git clone https://github.com/branxy/uchiru-frontend-challenge.git
 ```
 
 2. Navigate to project:
